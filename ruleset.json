@@ -6,7 +6,7 @@
     },
     {
         "type": "contain",
-        "patterns": ["老母", "老豆"],
+        "patterns": ["老母", "老豆", "肥doi"],
         "response": "唔准提%s 😡"
     },
     {
